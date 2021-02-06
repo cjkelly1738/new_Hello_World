@@ -1,2 +1,2 @@
 # new_Hello_World
-Github tutorial on making a new repository
+This is my first attempt at using GitHUb
